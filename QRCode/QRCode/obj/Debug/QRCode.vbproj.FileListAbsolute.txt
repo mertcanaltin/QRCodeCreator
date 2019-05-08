@@ -1,0 +1,16 @@
+C:\VS\repos\QRCode\QRCode\bin\Debug\QRCode.exe.config
+C:\VS\repos\QRCode\QRCode\bin\Debug\QRCode.exe
+C:\VS\repos\QRCode\QRCode\bin\Debug\QRCode.pdb
+C:\VS\repos\QRCode\QRCode\bin\Debug\QRCode.xml
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.vbprojAssemblyReference.cache
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.Resources.resources
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.GenerateResource.cache
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.CoreCompileInputs.cache
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.exe
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.xml
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.pdb
+C:\VS\repos\QRCode\QRCode\bin\Debug\BarcodeLib.dll
+C:\VS\repos\QRCode\QRCode\bin\Debug\DataMatrix.net.dll
+C:\VS\repos\QRCode\QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\VS\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.CopyComplete
